@@ -1,7 +1,7 @@
 # Insurance-model
 The deployed Web App is live at https://insurance-prediction-model.herokuapp.com/
 This Web App predicts if a client is likely to purchase an Insurance based on Machine learning 
-The model is trained on a Dataset called Tips.csv in the Repository
+The model is trained on a Dataset called tips.csv in the Repository.
 The web App was bulit in python using the following libraries
 
 streamlit
